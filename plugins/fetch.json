@@ -9,8 +9,7 @@
         "source": {
             "type": "git",
             "url": "https://github.com/AndyChenW/cordova-plugin-device",
-            "subdir": ".",
-            "ref": "28a84c855362e5cd4c5487e8b6a1bc9af05ae8e2"
+            "subdir": "."
         }
     }
 }
